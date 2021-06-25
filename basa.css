@@ -1,0 +1,43 @@
+.karta1{
+	width: 30%;
+	border: 10px solid pink;
+	border-radius: 10px;
+	display: inline-block;
+}
+.aboba{
+	margin-left: 35%;
+}
+body{
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+span{
+	font-size: 20px;
+	text-align: center;
+}
+.in{
+	display: inline-block;
+}
+header{
+	background-color: #FEFFC5;
+	color: #525256;}
+.a{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;}
+.b{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;
+}
+.c{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;}
+.d{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;}

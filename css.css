@@ -1,0 +1,84 @@
+.koto{
+	width: 10%;
+}
+h1{
+	display: inline-block;
+	margin-left: 35%;
+
+}
+.a{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;}
+.b{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;
+}
+.c{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;}
+.d{
+	text-decoration: none;
+	background-color: orange;
+	padding: 5px;
+	border-radius: 4px;}
+header{
+	background-color: #FEFFC5;
+	color: #525256;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background: url(fon.jpg);
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.kot228{
+	margin-top: px;
+}
+.a{
+	margin-left: 36%;
+}
+
+.karta1{
+	width: 201px;
+	height: 320px;
+	border: 10px solid pink;
+	border-radius: 10px;
+	display: inline-block;
+}
+.nada{
+	
+	margin-left: 0px;
+
+}
+
+}
+span{
+	background-color: white;
+}
+p{
+	font-size: 25px;
+	margin-left: 5px;
+}
+.kto_ya{
+	background-color: #F2FFD1;
+	color: #835F5F;
+}
+.kto_ya:hover{
+	background-color: #FFE2EC;
+}
+}
+.g{
+	background-color: none;
+}
+.g1{
+	background-color: none;
+}
+footer{
+	background-color: white;
+}
